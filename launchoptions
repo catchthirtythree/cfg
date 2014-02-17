@@ -1,1 +1,1 @@
--console -high +mat_vignette_enable 0 -noaafonts -nod3 -nod3d9ex -nojoy -novid -threads 4
+-console -high -language pirate -noaafonts -nod3 -nojoy -novid -threads 4
